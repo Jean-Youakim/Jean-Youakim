@@ -50,7 +50,7 @@ I'm a Computer Engineering student at the Lebanese American University (LAU), pa
 
 ## 📂 Projects
 
-- **Class Attendance - Logic Design Lab** - A system designed to track and manage class attendance for the Logic Design laboratory course using digital circuit design principles.
+- **Smart Class Attendance System- Logic Design Lab** - A system designed to track and manage class attendance for the Logic Design laboratory course using digital circuit design principles.
 
 ---
 
