@@ -51,6 +51,7 @@ I'm a Computer Engineering student at the Lebanese American University (LAU), pa
 ## 📂 Projects
 
 - **Smart Classroom Attendance System- Logic Design Lab** - A system designed to track and manage class attendance for the Logic Design laboratory course using digital circuit design principles.
+- **The Stacks- Data Structures Lab** - An online library management website designed to store, organize, search, and manage book collections through an interactive web platform.
 
 ---
 
