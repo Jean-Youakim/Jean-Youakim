@@ -50,10 +50,10 @@ I'm a Computer Engineering student at the Lebanese American University (LAU), pa
 
 ## 📂 Projects
 
-- **Smart Classroom Attendance System - Logic Design Lab** : A system designed to track and manage class attendance for the Logic Design laboratory course using digital circuit design principles.
-- **The Stacks - Data Structures Lab** : An online library management website designed to store, organize, search, and manage book collections through an interactive web platform.
-- **Heart Pulse Monitoring System - Electronics I Lab** : A hardware-based monitoring system that utilizes an infrared emitter and photodiode pair to detect blood volume changes in the finger. Designed and implemented multi-stage operational amplifier circuits, including active bandpass filters, to isolate, amplify, and condition the low-voltage signals for real-time pulse visualization.
-- **World Cup 2026 Predictor** : A World Cup 2026 simulator that uses Monte Carlo simulations and an Elo-based rating system to predict tournament outcomes.
+- **Smart Classroom Attendance System - Logic Design Lab:** A system designed to track and manage class attendance for the Logic Design laboratory course using digital circuit design principles.
+- **The Stacks - Data Structures Lab:** An online library management website designed to store, organize, search, and manage book collections through an interactive web platform.
+- **Heart Pulse Monitoring System - Electronics I Lab:** A hardware-based monitoring system that utilizes an infrared emitter and photodiode pair to detect blood volume changes in the finger. Designed and implemented multi-stage operational amplifier circuits, including active bandpass filters, to isolate, amplify, and condition the low-voltage signals for real-time pulse visualization.
+- **World Cup 2026 Predictor:** A World Cup 2026 simulator that uses Monte Carlo simulations and an Elo-based rating system to predict tournament outcomes.
 ---
 
 ## 📫 Get in Touch
