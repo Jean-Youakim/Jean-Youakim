@@ -23,7 +23,6 @@ I'm a Computer Engineering student at the Lebanese American University (LAU), pa
 
 - 🎓 Studying Computer Engineering at **LAU**
 - 🔭 Currently building and experimenting with **personal projects**
-- 🌱 Always learning — currently deepening my skills in **AI/ML and data analytics**
 - 📍 Based in Lebanon
 
 ---
