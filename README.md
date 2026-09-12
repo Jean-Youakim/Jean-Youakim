@@ -53,7 +53,7 @@ I'm a Computer Engineering student at the Lebanese American University (LAU), pa
 - **The Stacks - Data Structures Lab:** An online library management website designed to store, organize, search, and manage book collections through an interactive web platform.
 - **Heart Pulse Monitoring System - Electronics I Lab:** A signal conditioning circuit designed with multi-stage op-amps and active filters to amplify and isolate finger pulse signals for real-time visualization.
 - **World Cup 2026 Predictor:** A World Cup 2026 simulator that uses Monte Carlo simulations and an Elo-based rating system to predict tournament outcomes.
-- **Wildfire Detection:** An AI/ML-powered system for detecting and monitoring wildfires using satellite imagery and deep learning models to identify fire hotspots and predict fire spread patterns.
+- **Wildfire Detection:** AI-powered early-warning system for detecting fire and smoke in images using YOLOv8 and deep learning. Trained on the D-Fire dataset, with a focus on high-recall detection and alert-oriented evaluation for potential wildfire monitoring.
 
 ---
 
